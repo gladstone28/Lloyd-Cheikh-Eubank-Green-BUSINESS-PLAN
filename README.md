@@ -146,13 +146,15 @@ Total Startup Costs	              $55,000
 The business expects to generate revenue from the sale of skateboards, safety gear, and accessories. Here's a projection of total revenue for Year 1 based on estimated sales volumes:
 
 ```
-Product	                 Price (J$)   Estimated Sales (Units) Total Revenue (J$)
-All Surface Skateboards	 $15,000	60	$900,000
-Helmets	                 $7,500	                50	                                   $375,000
-Safety Gear (pads, etc.)$4,000	       100	              $400,000
-Skateboard Wheels	$8,000	       75	              $600,000
-Total Revenue (Year 1)
-			$2,275,000
+| Product                | Price (J$) | Estimated Sales (Units) | Total Revenue (J$) |
+|------------------------|------------|-------------------------|--------------------|
+| All Surface Skateboards | 15,000     | 60                      | 900,000            |
+| Helmets                | 7,500      | 50                      | 375,000            |
+| Safety Gear (pads, etc.)| 4,000      | 100                     | 400,000            |
+| Skateboard Wheels      | 8,000      | 75                      | 600,000            |
+| **Total Revenue (Year 1)** |            |                         | **2,275,000**       |
+
+
 ```
 
 **3. Cost of Goods Sold (COGS)**
@@ -160,29 +162,18 @@ Total Revenue (Year 1)
 COGS represents the direct costs of producing the skateboards, wheels, and accessories.
 
 ```
-Product	Unit Cost (J$)	Total Cost (J$)
-All Surface Skateboards	$8,000	$480,000
-Helmets	$3,000	$150,000
-Safety Gear (pads, etc.)	$1,500	$150,000
-Skateboard Wheels	$4,000	$300,000
-Total COGS (Year 1)		$1,080,000
+| Product                | Unit Cost (J$) | Total Cost (J$) |
+|------------------------|----------------|-----------------|
+| All Surface Skateboards | 8,000          | 480,000         |
+| Helmets                | 3,000          | 150,000         |
+| Safety Gear (pads, etc.)| 1,500          | 150,000         |
+| Skateboard Wheels      | 4,000          | 300,000         |
+| **Total COGS (Year 1)** |                | **1,080,000**   |
+
 ```
 4. Operating Expenses (Monthly)
 
 Operating expenses include the costs required to run the business monthly.
-
-```
-Expense Category	Monthly Cost (J$)	Annual Cost (J$)
-Payroll (contractors)	$43,884	$526,608
-Utilities (electricity, internet, phone)	$2,700	$32,400
-Marketing/Promotion	$4,000	$48,000
-Insurance	$576	$6,912
-Office Supplies	$500	
-
-```
-
-
-Let’s continue by completing the Operating Expenses, then moving on to Profit & Loss for Year 1, and the Break-even Analysis.
 
 
 **4. Operating Expenses (Monthly & Yearly)**
@@ -190,28 +181,33 @@ Let’s continue by completing the Operating Expenses, then moving on to Profit 
 These are the fixed and variable costs required to keep the business running each month:
 
 ```
-Expense Category	Monthly Cost (J$)	Annual Cost (J$)
-Payroll (contractors)	$43,884	$526,608
-Utilities (electricity, internet, phone)	$2,700	$32,400
-Marketing/Promotion	$4,000	$48,000
-Insurance	$576	$6,912
-Office Supplies	$500	$6,000
-Miscellaneous	$1,000	$12,000
-Total Operating Expenses	$52,660	$631,920
+| Expense Category                      | Monthly Cost (J$) | Annual Cost (J$) |
+|---------------------------------------|-------------------|------------------|
+| Payroll (contractors)                 | 43,884            | 526,608          |
+| Utilities (electricity, internet, phone)| 2,700            | 32,400           |
+| Marketing/Promotion                   | 4,000             | 48,000           |
+| Insurance                             | 576               | 6,912            |
+| Office Supplies                       | 500               | 6,000            |
+| Miscellaneous                         | 1,000             | 12,000           |
+| **Total Operating Expenses**          | **52,660**        | **631,920**      |
+
+
 ```
 **5. Profit & Loss (Year 1)**
 
 This section summarizes revenue, COGS, operating expenses, and net profit for Year 1.
 
 ```
-Category	Amount (J$)
-Total Revenue	$2,275,000
-Cost of Goods Sold (COGS)	$1,080,000
-Gross Profit	$1,195,000
-Operating Expenses	$631,920
-Net Profit Before Taxes	$563,080
-Taxes (30%)	$168,924
-Net Profit After Taxes	$394,156
+| Category                 | Amount (J$)  |
+|--------------------------|--------------|
+| Total Revenue             | 2,275,000    |
+| Cost of Goods Sold (COGS) | 1,080,000    |
+| **Gross Profit**          | **1,195,000**|
+| Operating Expenses        | 631,920      |
+| **Net Profit Before Taxes**| **563,080**  |
+| Taxes (30%)               | 168,924      |
+| **Net Profit After Taxes** | **394,156**  |
+
 
 ```
 - Gross Profit: Revenue - COGS
