@@ -4,6 +4,7 @@
 **GREEN SKATEBOARDING**
 
 **BUSINESS PLAN**
+![](./front-picture.png)
 
 Prepared by:
 Lloyd – Cheikh Eubank – Green

@@ -1,4 +1,83 @@
 
+## Cover Page
+
+**GREEN SKATEBOARDING**
+
+**BUSINESS PLAN**
+
+Prepared by:
+Lloyd – Cheikh Eubank – Green
+BSc. in Entrepreneurship
+Founder and Owner, Green Skateboarding
+
+Location:
+26A East Great House Circle
+Jamaica
+
+Date:
+September 2024
+
+## Table of Contents
+
+**1. Executive Summary**
+
+- Overview
+- Business Objectives
+- Mission Statement
+
+**2. General Company Description**
+
+- Business Name and Industry
+- Mission Statement
+- Company Goals and Objectives
+- Business Philosophy
+- Legal Form of Ownership
+
+**3. Products and Services**
+
+- All Surface Skateboards
+- Skateboard Safety Gear
+- Accessories
+
+**4. Market Analysis**
+
+- Industry Overview
+- Target Market
+- Competition Analysis
+
+**5. Marketing Plan**
+
+- Marketing Strategies
+- Promotion
+- Pricing Strategy
+- Proposed Location
+
+**6. Operational Plan**
+
+- Production Methods
+- Location and Physical Requirements
+- Inventory and Suppliers
+- Legal Environment
+
+**7. Management and Organization**
+
+- Management Structure
+- Key Personnel
+
+**8. Financial Plan**
+
+- Startup Costs (Year 1)
+- Revenue Projections
+- Cost of Goods Sold (COGS)
+- Operating Expenses (Monthly & Annual)
+- Profit & Loss (Year 1)
+- Break-even Analysis
+
+**9. Appendices**
+
+- Supporting Documents
+- Additional Financial Projections
+- Market Research
 
 **1. Executive Summary**
 
@@ -6,13 +85,13 @@ Green Skateboarding is a Jamaican skateboarding manufacturer specializing in all
 
 **2. Company Overview**
 
-Business Name: Green Skateboarding
+**Business Name:** Green Skateboarding
 
-Industry: Sports and Transportation
+**Industry:** Sports and Transportation
 
-Mission: To provide superior skateboarding products that inspire and promote unity among the youth while creating a sustainable skateboarding culture in Jamaica.
+**Mission:** To provide superior skateboarding products that inspire and promote unity among the youth while creating a sustainable skateboarding culture in Jamaica.
 
-Goals: Establish a market for skateboarding in Jamaica, increase its popularity, and become a regional player in the Caribbean.
+**Goals:** Establish a market for skateboarding in Jamaica, increase its popularity, and become a regional player in the Caribbean.
 
 **3. Products and Services**
 
