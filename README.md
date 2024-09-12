@@ -191,7 +191,7 @@ The business needs to generate approximately J$1,203,657 in revenue to break eve
 
 Monthly Break-even Revenue:
 
-```
+
 1
 ,
 203
@@ -207,7 +207,7 @@ Monthly Break-even Revenue:
 ​
  =100,305
 
-```
+
 The business needs to generate approximately J$100,305 per month to cover all its costs and break even.
 
 This financial plan provides a comprehensive overview of the startup costs, revenue projections, costs, profit and loss, and break-even point for Green Skateboarding. Would you like to adjust any of these figures or explore more details in certain areas?
