@@ -35,43 +35,49 @@ September 2024
 
 3. Products and Services
 
-All Surface Skateboards
-Skateboard Safety Gear
-Accessories
-Market Analysis
+- All Surface Skateboards
+- Skateboard Safety Gear
+- Accessories
 
-Industry Overview
-Target Market
-Competition Analysis
-Marketing Plan
+4. Market Analysis
 
-Marketing Strategies
-Promotion
-Pricing Strategy
-Proposed Location
-Operational Plan
+- Industry Overview
+- Target Market
+- Competition Analysis
 
-Production Methods
-Location and Physical Requirements
-Inventory and Suppliers
-Legal Environment
-Management and Organization
+5. Marketing Plan
 
-Management Structure
-Key Personnel
-Financial Plan
+- Marketing Strategies
+- Promotion
+- Pricing Strategy
+- Proposed Location
 
-Startup Costs (Year 1)
-Revenue Projections
-Cost of Goods Sold (COGS)
-Operating Expenses (Monthly & Annual)
-Profit & Loss (Year 1)
-Break-even Analysis
-Appendices
+6. Operational Plan
 
-Supporting Documents
-Additional Financial Projections
-Market Research
+- Production Methods
+- Location and Physical Requirements
+- Inventory and Suppliers
+- Legal Environment
+
+7. Management and Organization
+
+- Management Structure
+- Key Personnel
+
+8. Financial Plan
+
+- Startup Costs (Year 1)
+- Revenue Projections
+- Cost of Goods Sold (COGS)
+- Operating Expenses (Monthly & Annual)
+- Profit & Loss (Year 1)
+- Break-even Analysis
+
+9. Appendices
+
+- Supporting Documents
+- Additional Financial Projections
+- Market Research
 
 **1. Executive Summary**
 
