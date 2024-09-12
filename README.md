@@ -150,8 +150,9 @@ Variable Costs (COGS as a percentage of revenue): 47.5% of revenue (calculated f
 ```
 Break-even Calculation:
 
-```
+
 Break-even Revenue
+
 ```
 =
 631
@@ -171,6 +172,7 @@ Break-even Revenue
 203
 ,
 657.14
+```
 Break-even Revenue= 
 1−0.475
 631,920
