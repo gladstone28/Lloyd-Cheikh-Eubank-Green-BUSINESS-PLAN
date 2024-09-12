@@ -57,9 +57,9 @@ Production Equipment (tools, etc.)	$10,000
 Materials (wood, metal, wheels, etc.)	$24,000
 Marketing (initial ads, social media)	$12,000
 Legal Fees (attorney, accountant)	$5,000
-Insurance	$1,000
+Insurance	                        $1,000
 Miscellaneous (office supplies, etc.)	$3,000
-Total Startup Costs	$55,000
+Total Startup Costs	              $55,000
 ```
 **2. Revenue Projections (Year 1)**
 
@@ -156,7 +156,7 @@ Break-even Calculation:
 
 Break-even Revenue
 
-```
+
 =
 631
 ,
@@ -175,7 +175,7 @@ Break-even Revenue
 203
 ,
 657.14
-```
+
 Break-even Revenue= 
 1−0.475
 631,920
@@ -186,7 +186,7 @@ Break-even Revenue=
 ​
  =1,203,657.14
 
-```
+
 The business needs to generate approximately J$1,203,657 in revenue to break even in Year 1.
 
 Monthly Break-even Revenue:
@@ -206,6 +206,7 @@ Monthly Break-even Revenue:
 1,203,657
 ​
  =100,305
+
 ```
 The business needs to generate approximately J$100,305 per month to cover all its costs and break even.
 
