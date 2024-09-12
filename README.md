@@ -231,7 +231,13 @@ Variable Costs (COGS as a percentage of revenue): 47.5% of revenue (calculated f
 The business needs to generate approximately J$100,305 per month to cover all its costs and break even.
 
 
-This financial plan provides a comprehensive overview of the startup costs, revenue projections, costs, profit and loss, and break-even point for Green Skateboarding. Would you like to adjust any of these figures or explore more details in certain areas?
+This financial plan provides a comprehensive overview of the startup costs, revenue projections, costs, profit and loss, and break-even point for Green Skateboarding. 
+
+CONTACT:
+
+Contact Gladstone Rose of Quality Solutions Limited ( WhatsApp 876-783-2423) to shedule a zoom meeting to discuss your furniture or bamboo projects
+
+
 
 
 
