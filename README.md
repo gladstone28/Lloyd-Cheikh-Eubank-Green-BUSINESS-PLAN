@@ -52,7 +52,7 @@ Let's break down and further develop the Financial Plan for Green Skateboarding,
 These are the initial investments required to launch Green Skateboarding. Based on the information provided, here's an estimate of the costs:
 
 ```
-Item	Cost (J$)
+Item	                              Cost (J$)
 Production Equipment (tools, etc.)	$10,000
 Materials (wood, metal, wheels, etc.)	$24,000
 Marketing (initial ads, social media)	$12,000
@@ -66,11 +66,11 @@ Total Startup Costs	$55,000
 The business expects to generate revenue from the sale of skateboards, safety gear, and accessories. Here's a projection of total revenue for Year 1 based on estimated sales volumes:
 
 ```
-Product	Price (J$)	Estimated Sales (Units)	Total Revenue (J$)
-All Surface Skateboards	$15,000	60	$900,000
-Helmets	$7,500	50	$375,000
-Safety Gear (pads, etc.)	$4,000	100	$400,000
-Skateboard Wheels	$8,000	75	$600,000
+Product	                 Price (J$)   Estimated Sales (Units) Total Revenue (J$)
+All Surface Skateboards	 $15,000	60	$900,000
+Helmets	                 $7,500	                50	                                   $375,000
+Safety Gear (pads, etc.)$4,000	       100	              $400,000
+Skateboard Wheels	$8,000	       75	              $600,000
 Total Revenue (Year 1)
 			$2,275,000
 ```

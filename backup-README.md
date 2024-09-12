@@ -7,8 +7,11 @@ Green Skateboarding is a Jamaican skateboarding manufacturer specializing in all
 **2. Company Overview**
 
 Business Name: Green Skateboarding
+
 Industry: Sports and Transportation
+
 Mission: To provide superior skateboarding products that inspire and promote unity among the youth while creating a sustainable skateboarding culture in Jamaica.
+
 Goals: Establish a market for skateboarding in Jamaica, increase its popularity, and become a regional player in the Caribbean.
 
 **3. Products and Services**
