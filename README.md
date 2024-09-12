@@ -1,4 +1,77 @@
 
+## Cover Page
+
+**GREEN SKATEBOARDING**
+
+**BUSINESS PLAN**
+
+Prepared by:
+Lloyd – Cheikh Eubank – Green
+BSc. in Entrepreneurship
+Founder and Owner, Green Skateboarding
+
+Location:
+26A East Great House Circle
+Jamaica
+
+Date:
+September 2024
+
+## Table of Contents
+
+1. Executive Summary
+
+- Overview
+- Business Objectives
+- Mission Statement
+
+2. General Company Description
+
+- Business Name and Industry
+- Mission Statement
+- Company Goals and Objectives
+- Business Philosophy
+- Legal Form of Ownership
+
+3. Products and Services
+
+All Surface Skateboards
+Skateboard Safety Gear
+Accessories
+Market Analysis
+
+Industry Overview
+Target Market
+Competition Analysis
+Marketing Plan
+
+Marketing Strategies
+Promotion
+Pricing Strategy
+Proposed Location
+Operational Plan
+
+Production Methods
+Location and Physical Requirements
+Inventory and Suppliers
+Legal Environment
+Management and Organization
+
+Management Structure
+Key Personnel
+Financial Plan
+
+Startup Costs (Year 1)
+Revenue Projections
+Cost of Goods Sold (COGS)
+Operating Expenses (Monthly & Annual)
+Profit & Loss (Year 1)
+Break-even Analysis
+Appendices
+
+Supporting Documents
+Additional Financial Projections
+Market Research
 
 **1. Executive Summary**
 
@@ -155,8 +228,7 @@ Break-even Calculation:
 
 
 Break-even Revenue
-
-
+```
 =
 631
 ,
@@ -175,8 +247,9 @@ Break-even Revenue
 203
 ,
 657.14
-
+```
 Break-even Revenue= 
+
 1−0.475
 631,920
 ​
@@ -185,13 +258,13 @@ Break-even Revenue=
 631,920
 ​
  =1,203,657.14
-
+```
 
 The business needs to generate approximately J$1,203,657 in revenue to break even in Year 1.
-
+```
 Monthly Break-even Revenue:
 
-
+```
 1
 ,
 203
@@ -207,8 +280,9 @@ Monthly Break-even Revenue:
 ​
  =100,305
 
-
+```
 The business needs to generate approximately J$100,305 per month to cover all its costs and break even.
+
 
 This financial plan provides a comprehensive overview of the startup costs, revenue projections, costs, profit and loss, and break-even point for Green Skateboarding. Would you like to adjust any of these figures or explore more details in certain areas?
 
